@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on McDonalds
-- 🌱 I’m currently learning how to do page web.
+- 🌱 I’m currently learning how to make web pages.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with php code.
 - 💬 Ask me about my favorites programing langauge.
